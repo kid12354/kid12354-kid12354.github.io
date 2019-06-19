@@ -13,7 +13,7 @@ which would take any file that is in tiff format and run Tesseract on it. After 
   After the cleaning process, I decided to try the different pattern analyzing techniques that were taught in Module 4 in order to see if any trends emerged from the war diaries.  I started out by using the [*Topic Modeling Tool which generated a couple of csv files of topics and other information*](https://github.com/kid12354/capstone/tree/master/output_csv).  Next, I used Overview to analyze the war diaries to see which words are most frequent and was given a [*word cloud*](https://github.com/kid12354/kid12354.github.io/blob/master/images/overview-wordcloud.JPG).  After I tried running the war diaries into Voyant Tools to get a better representation of patterns that are occurring.  
   
 ![voyant-cirrus]({{"images/voyant-cirrus.JPG"|absolute_url}})  
-![voyant-links]({{"imagesvoyant-links.JPG"|absolute_url}})
+![voyant-links]({{"images/voyant-links.JPG"|absolute_url}})
 ![voyant-summary]({{"images/voyant-summary.JPG"|absolute_url}})
 ![voyant-termberry]({{"images/voyant-termsBerry.JPG"|absolute_url}})
 ![voyant-trends]({{"images/voyant-trends.JPG"|absolute_url}})
