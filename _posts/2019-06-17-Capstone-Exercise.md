@@ -13,10 +13,10 @@ which would take any file that is in tiff format and run Tesseract on it. After 
   After the cleaning process, I decided to try the different pattern analyzing techniques that were taught in Module 4 in order to see if any trends emerged from the war diaries.  I started out by using the [*Topic Modeling Tool which generated a couple of csv files of topics and other information*](https://github.com/kid12354/capstone/tree/master/output_csv).  Next, I used Overview to analyze the war diaries to see which words are most frequent and was given a [*word cloud*](https://github.com/kid12354/kid12354.github.io/blob/master/images/overview-wordcloud.JPG).  After I tried running the war diaries into Voyant Tools to get a better representation of patterns that are occurring.  
   
 ![voyant-cirrus]({{"images/voyant-cirrus.JPG"|absolute_url}})  
-![voyant-links](https://github.com/kid12354/kid12354.github.io/blob/master/images/voyant-links.JPG)
-![voyant-summary](https://github.com/kid12354/kid12354.github.io/blob/master/images/voyant-summary.JPG)
-![voyant-termberry](https://github.com/kid12354/kid12354.github.io/blob/master/images/voyant-termsBerry.JPG)
-![voyant-trends](https://github.com/kid12354/kid12354.github.io/blob/master/images/voyant-trends.JPG)
+![voyant-links]({{"imagesvoyant-links.JPG"|absolute_url}})
+![voyant-summary]({{"images/voyant-summary.JPG"|absolute_url}})
+![voyant-termberry]({{"images/voyant-termsBerry.JPG"|absolute_url}})
+![voyant-trends]({{"images/voyant-trends.JPG"|absolute_url}})
 
   
   The reason for running the war diaries into various pattern analysis tools was that I wasn’t sure what approach I wanted to take for this capstone exercise. After running theses pattern tools, I noticed there were a few names and dates of events mentioned in these diaries frequently.  I then came up with the idea to cross reference any names found into the Commonwealth War Graves Commission site that was introduced in the Dream case exercise along with the dates being cross referenced to any major events that took place during WW1. Unfortunately, I did not have enough time to accomplish this since most of my time went towards cleaning up the war diaries. 
